@@ -6,13 +6,13 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/coopsrc"
+  # weibo: "#"
+  # rss: "#"
+  # zhihu: "#"
   #qq: "#"
   #weixin: "#"
-  #jianshu: "#"
+  jianshu: "https://www.jianshu.com/u/943a18f1cf80"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
@@ -65,10 +65,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /assets/img/favicon.png
 
 #你的头像url
-avatar:
+avatar: /assets/img/avatar.jpeg
 
 #是否开启分享
 share_jia: true
@@ -116,15 +116,11 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
-friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+# 友链
+friends: 
+  友情链接1: https://gooim.me
 
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
